@@ -2,8 +2,8 @@
 A simple drawing header file for cpp
 
 ## includes the follwing headers
-cmath
-graphics.h ##需另行安装
+cmath  
+graphics.h *need to be installed*  
 windows.h
 
 ## contains constants:
